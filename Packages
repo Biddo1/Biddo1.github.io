@@ -1,3 +1,26 @@
+Package: com.jemidem.dayn
+Name: Dayn
+Version: 1.1
+Description: 
+Author: Devvix, JannikCrack <jannikcrackanddevvix@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Replaces: com.jannikcrack.dayn
+Icon: https://chariz.com/cdn/icon/dayn/icon@3x.png
+Installed-Size: 1080
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Depiction: https://rejail.ru/depiction.php?file=dayn
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=dayn
+Filename: debs/com.jemidem.dayn_1.1_iphoneos-arm.deb
+Depiction: https://biddo1.github.io/depictions/com.jemidem.dayn.html
+Icon: https://biddo1.github.io/icons/com.jemidem.dayn.png
+Size: 580680
+MD5sum: 9a1f8c14b459fa7e28a3b6f54bc2eb3f
+SHA1: 491c8023d28558c6dd17b058f3d070b625d39039
+SHA256: 1edaa7c18c83e96e19d4fe5f91f9a5d90c7e8266471db73a3c9b6bcb9846c9cd
+SHA521: 9fcc9ae32ceb560f714170cb9bccc8b90a38d9ee8f758bce2bde1f5a8c72cef657f9011fdaf0d92bfa78fcf3f18c07b788b843132d4653dc846ed629999072dd
+
 Package: com.jemidem.kai
 Name: Kai
 Version: 1.1.1
