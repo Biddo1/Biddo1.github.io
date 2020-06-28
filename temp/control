@@ -1,0 +1,13 @@
+Package: com.jemidem.kai
+Name: Kai
+Version: 1.1.1
+Description: 
+Author: burrit0z <carsondzielinski@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>=1.14)
+Icon: https://chariz.com/cdn/icon/kai/icon@3x.png
+Installed-Size: 882
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Depiction: https://rejail.ru/depiction.php?file=kai
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=kai
